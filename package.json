@@ -1,0 +1,23 @@
+{
+  "name": "test-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celphi-misc/test-remote.git"
+  },
+  "dependencies": {
+    "connect": "~3.6.6",
+    "serve-static": "^1.13.2"
+  },
+  "author": "Celestial Phineas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celphi-misc/test-remote/issues"
+  },
+  "homepage": "https://github.com/celphi-misc/test-remote#readme"
+}
